@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PasswordManager</string>
+
+    <string name="password_manager">Password Manager</string>
+    <string name="password_star">*******</string>
+
+    <string name="account_name">Account Name</string>
+    <string name="user_or_email">UserName/Email</string>
+    <string name="password">Password</string>
+    <string name="add_new_account">Add New Account</string>
+    <string name="account_detail">Account Details</string>
+    <string name="account_type">Account Type</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
